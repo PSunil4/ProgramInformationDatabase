@@ -1,0 +1,7 @@
+C:\Users\Sunneh\Documents\Visual Studio 2013\Projects\VISUAL STUDIO 2013 WORKSPACE\ProgramInformationDatabase\ProgramInformationDatabase.Tests\bin\Debug\ProgramInformationDatabase.Tests.dll
+C:\Users\Sunneh\Documents\Visual Studio 2013\Projects\VISUAL STUDIO 2013 WORKSPACE\ProgramInformationDatabase\ProgramInformationDatabase.Tests\bin\Debug\ProgramInformationDatabase.Tests.pdb
+C:\Users\Sunneh\Documents\Visual Studio 2013\Projects\VISUAL STUDIO 2013 WORKSPACE\ProgramInformationDatabase\ProgramInformationDatabase.Tests\bin\Debug\ProgramInformationDatabase.dll
+C:\Users\Sunneh\Documents\Visual Studio 2013\Projects\VISUAL STUDIO 2013 WORKSPACE\ProgramInformationDatabase\ProgramInformationDatabase.Tests\bin\Debug\ProgramInformationDatabase.pdb
+C:\Users\Sunneh\Documents\Visual Studio 2013\Projects\VISUAL STUDIO 2013 WORKSPACE\ProgramInformationDatabase\ProgramInformationDatabase.Tests\obj\Debug\ProgramInformationDatabase.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Sunneh\Documents\Visual Studio 2013\Projects\VISUAL STUDIO 2013 WORKSPACE\ProgramInformationDatabase\ProgramInformationDatabase.Tests\obj\Debug\ProgramInformationDatabase.Tests.dll
+C:\Users\Sunneh\Documents\Visual Studio 2013\Projects\VISUAL STUDIO 2013 WORKSPACE\ProgramInformationDatabase\ProgramInformationDatabase.Tests\obj\Debug\ProgramInformationDatabase.Tests.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sunneh\Documents\Visual Studio 2013\Projects\VISUAL STUDIO 2013 WORKSPACE\ProgramInformationDatabase\ProgramInformationDatabase\obj\Debug\ProgramInformationDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Sunneh\Documents\Visual Studio 2013\Projects\VISUAL STUDIO 2013 WORKSPACE\ProgramInformationDatabase\ProgramInformationDatabase\bin\ProgramInformationDatabase.dll.config
+C:\Users\Sunneh\Documents\Visual Studio 2013\Projects\VISUAL STUDIO 2013 WORKSPACE\ProgramInformationDatabase\ProgramInformationDatabase\bin\ProgramInformationDatabase.dll
+C:\Users\Sunneh\Documents\Visual Studio 2013\Projects\VISUAL STUDIO 2013 WORKSPACE\ProgramInformationDatabase\ProgramInformationDatabase\bin\ProgramInformationDatabase.pdb
+C:\Users\Sunneh\Documents\Visual Studio 2013\Projects\VISUAL STUDIO 2013 WORKSPACE\ProgramInformationDatabase\ProgramInformationDatabase\obj\Debug\ProgramInformationDatabase.dll
+C:\Users\Sunneh\Documents\Visual Studio 2013\Projects\VISUAL STUDIO 2013 WORKSPACE\ProgramInformationDatabase\ProgramInformationDatabase\obj\Debug\ProgramInformationDatabase.pdb
