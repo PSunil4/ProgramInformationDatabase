@@ -17,12 +17,22 @@
     <link href="css/GreyRedStyleSheet.css" rel="stylesheet" />
     <link href="css/modern-business.css" rel="stylesheet" />
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="css/SchoolTable_StyleSheet.css" media="screen" type="text/css" />
+    <link rel="stylesheet" href="css/StyleSheet_CSS.css" media="screen" type="text/css" /> 
+    <link href="css/jasny-bootstrap.min.css" rel="stylesheet" media="screen" />
+    <script src="js/jasny-bootstrap.min.js"></script>
+<%--    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>--%>
+
+    <%--<script src='http://codepen.io/assets/libs/fullpage/jquery.js'></script>
+    <script src="js/index.js"></script>--%>
 
     <asp:ContentPlaceHolder id="ContentPlaceHolderHead" runat="server">
     </asp:ContentPlaceHolder>
 </head>
 <body>
-    <form id="masterPageForm">
+    <form id="masterPageForm" runat="server">
         <section>
             <div class="jumbotron">
                 <div class="container">
@@ -36,7 +46,7 @@
                 <li class='active'><a href='Default.aspx'><span>Home</span></a></li>
                 <li class='has-sub'><a href='#'><span>Reports</span></a>
                     <ul>
-                        <li><a href='#'><span>Comprehensive Report</span></a></li>
+                        <li><a href='ReportPage.aspx'><span>Comprehensive Report</span></a></li>
                         <li><a href='#'><span>Custom Report</span></a></li>
                     </ul>
                 </li>
@@ -44,11 +54,39 @@
                     <ul>
                         <li><a href='MappingForm.aspx'><span>Mapping Form</span></a></li>
                         <li><a href='ProgramMapping.aspx'><span>Program Mapping</span></a></li>
+                        <li><a href='ProgramOutcome_Standards.aspx'><span>Program Outcomes</span></a></li>
+                        <li><a href='ProgramAdvisoryCommittees.aspx'><span>Prog. Advisory Committee</span></a></li>
+                        <li><a href='ContactInformation.aspx'><span>Faculty Contact Info</span></a></li>
+                        <li><a href='#'><span>PAC Contact Info</span></a></li>
                         <li class='last'><a href='#'><span>Program Outcomes</span></a></li>
                     </ul>
                 </li>
-                <li class='has-sub'><a href='#'><span>Contact Information</span></a></li>
-                <li class='last'><a href='#'><span>Logout</span></a></li>
+                <li class='has-sub'><a href='#'><span>Tables</span></a>
+                    <ul>
+                        <li><a href='SchoolTable.aspx'><span>School Information</span></a></li>
+                        <li><a href='#'><span>Department Information</span></a></li>
+                        <li class='last'><a href='ProgramInformation.aspx'><span>Program Information</span></a></li>
+
+                    </ul>
+                </li>
+
+                <li class='has-sub'><a href='#'><span>Admin Panel</span></a>
+                    <ul>
+                        <li><a href='AdminFacultyContactForm.aspx'><span>Faculty Contact</span></a></li>
+                        <li><a href='AdminSchoolInformation.aspx'><span>School Information</span></a></li>
+                        <li><a href='AdminDepartmentInformation.aspx'><span>Department Information</span></a></li>
+                        <li class='last'><a href='AdminProgramInformation.aspx'><span>Program Information</span></a></li>
+
+                    </ul>
+                </li>
+                <li class='has-sub'><a href='#'><span>Contact Information</span></a>
+                    <ul>
+                        <li><a href='#'><span>Faculty Information</span></a></li>
+                        <li class='last'><a href='#'><span>PAC Information</span></a></li>
+                    </ul>
+                </li>
+                <li><a href='FileDownload.aspx'><span>File Download</span></a></li>
+                <li class='last'><a href='Login.aspx'><span>Logout</span></a></li>
             </ul>
         </div>
         
